@@ -1,6 +1,6 @@
 {
   "username": "TimeSpeeding",
   "password": "loveli96307.,",
-  "language": [ "csharp", "java" ],
+  "language": ["csharp", "cpp", "java"],
   "outputDir": "."
 }
