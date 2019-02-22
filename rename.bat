@@ -1,0 +1,1 @@
+for /r %%a in (*.csharp) do ren "%%a" "%%~na.cs"
